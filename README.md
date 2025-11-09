@@ -1,2 +1,11 @@
-# SP500_Value_Investing_Recommendations
-SP500 Project combining Google Sheets/Slides + Power BI to create interactive dashboards to identify potential value or sell opportunities.
+# Project Title: 
+   SP500_Value_Investing_Recommendations
+# Objective:
+   The objective of this project is to identify which sectors and stocks from the S&P500 are overvalued and which ones may be the best value. This model’s output is valuable to quickly find possible value or overpriced stocks, but it is important to explore specific company level factors before providing the final Recommendation that the model could not capture (eg.: Mergers & Acquisitions, Industry trends, Management’s quality, guidance and strategy, Risk Factors (Legal, Regulatory, Political, Currency), among others.
+# Scope:
+  The stock prices were extracted during the session of 24-10-2025.
+# Tools used:
+  This project was made using Google Sheets and Power BI.
+# Methodology:
+   The process involved cleaning the data and logging any identified issues, followed by detecting and treating outliers to ensure data reliability. Additional metrics and measures were then created to enhance the analytical depth of the dataset. All metrics used to Score the companies were normalized to a common [0–1] scale, enabling consistent comparison across different indicators. 
+   Before creating the Rating, a composite Score was calculated using a weighted average of the most important metrics, reflecting their relative significance. Finally, interactive and intuitive dashboards were developed in Power BI to visualize the results and facilitate the exploration and extraction of relevant information from the data.
