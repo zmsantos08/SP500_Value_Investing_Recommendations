@@ -1,5 +1,9 @@
 # Project Title: 
    SP500_Value_Investing_Recommendations
+
+# Main Dashboard
+<img src="https://drive.google.com/uc?export=view&id=1UWAxMeiYTe9LKX1KjViuhkAaF0L5KK_S" alt="Dashboard Preview" width="1000" height="600"/>
+
 # Objective:
    The objective of this project is to identify which sectors and stocks from the S&P500 are overvalued and which ones are the best value. 
    This model is valuable to quickly spot undervalued or overpriced stocks, but it is important to explore specific company level factors before providing the final **Recommendation** that the model could not capture (eg.: Mergers & Acquisitions, Industry trends, Management’s quality, guidance and strategy, Risk Factors (Legal, Regulatory, Political, Currency), among others.
@@ -16,5 +20,4 @@
    
    Before creating the Rating, a composite Score was calculated using a weighted average of the most important metrics, reflecting their relative significance. Finally, interactive and intuitive dashboards were developed in Power BI to visualize the results and facilitate the exploration and extraction of relevant information.
 
-# Main Dashboard
-<img src="https://drive.google.com/uc?export=view&id=1UWAxMeiYTe9LKX1KjViuhkAaF0L5KK_S" alt="Dashboard Preview" width="1000" height="600"/>
+
