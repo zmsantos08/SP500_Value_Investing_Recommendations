@@ -8,9 +8,9 @@
 # Tools used:
   This project was made using Google Sheets, Power BI and Google Slides. All files have been uploaded to the repository. 
   
-  Here is the link for the Google Slides: https://docs.google.com/presentation/d/1v7cNge5u2wWFOjPiYamAgHyb2gcAIJPDYCWSPrX5F_A/edit?usp=sharing
+  Here is the link for the Slide Deck: https://docs.google.com/presentation/d/1v7cNge5u2wWFOjPiYamAgHyb2gcAIJPDYCWSPrX5F_A/edit?usp=sharing
 
-  And Google Sheets: https://docs.google.com/spreadsheets/d/1gt71pm9Mz2w3JT4kskcnqGEl0z2Bp4wv3uGDN22h_mU/edit?usp=sharing
+  And the Database: https://docs.google.com/spreadsheets/d/1gt71pm9Mz2w3JT4kskcnqGEl0z2Bp4wv3uGDN22h_mU/edit?usp=sharing
 # Methodology:
    The process involved cleaning the data and logging any identified issues, followed by detecting and treating outliers to ensure data reliability. Additional metrics and measures were then created to enhance the analytical depth of the dataset. All metrics used to Score the companies were normalized to a common [0–1] scale, enabling consistent comparison across different indicators. 
    
