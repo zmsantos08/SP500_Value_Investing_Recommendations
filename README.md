@@ -14,7 +14,7 @@
 # Methodology:
    The process involved cleaning the data and logging any identified issues, followed by detecting and treating outliers to ensure data reliability. Additional metrics and measures were then created to enhance the analytical depth of the dataset. All metrics used to Score the companies were normalized to a common [0–1] scale, enabling consistent comparison across different indicators. 
    
-   Before creating the Rating, a composite Score was calculated using a weighted average of the most important metrics, reflecting their relative significance. Finally, interactive and intuitive dashboards were developed in Power BI to visualize the results and facilitate the exploration and extraction of relevant information from the data.
+   Before creating the Rating, a composite Score was calculated using a weighted average of the most important metrics, reflecting their relative significance. Finally, interactive and intuitive dashboards were developed in Power BI to visualize the results and facilitate the exploration and extraction of relevant information.
 
 # Main Dashboard
 <img src="https://drive.google.com/uc?export=view&id=1UWAxMeiYTe9LKX1KjViuhkAaF0L5KK_S" alt="Dashboard Preview" width="1000" height="600"/>
