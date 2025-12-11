@@ -1,7 +1,8 @@
 # Project Title: 
    SP500_Value_Investing_Recommendations
 # Objective:
-   The objective of this project is to identify which sectors and stocks from the S&P500 are overvalued and which ones are the best value. This model’s output is valuable to quickly find possible value or overpriced stocks, but it is important to explore specific company level factors before providing the final Recommendation that the model could not capture (eg.: Mergers & Acquisitions, Industry trends, Management’s quality, guidance and strategy, Risk Factors (Legal, Regulatory, Political, Currency), among others.
+   The objective of this project is to identify which sectors and stocks from the S&P500 are overvalued and which ones are the best value. 
+   This model is valuable to quickly spot undervalued or overpriced stocks, but it is important to explore specific company level factors before providing the final **Recommendation** that the model could not capture (eg.: Mergers & Acquisitions, Industry trends, Management’s quality, guidance and strategy, Risk Factors (Legal, Regulatory, Political, Currency), among others.
 # Scope:
   The stock prices were extracted during the session of 24-10-2025.
 # Tools used:
